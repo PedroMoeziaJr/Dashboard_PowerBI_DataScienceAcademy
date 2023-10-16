@@ -18,3 +18,13 @@ Dashboard de vendas criado no Power BI
 ## Detalhes do projeto
 
 Trata-se de um dashboard de vendas padrão criado no Power Bi com dados fictícios fornecidos pela Data Science Academy
+
+Com este dashboard podemos responder algumas perguntas:
+
+1- Qual o valor total vendido?
+
+2- Quantas vendas foram realizadas por país considerando a prioridade da entrega?
+
+3- Qual foi a média de desconto nas vendas por categoria de produto?
+
+4- Quais países tiveram maior média de valor de venda?
