@@ -1,6 +1,6 @@
-# Nome do meu projeto
+# Dashboard de vendas
 
-Rápida descrição do objetivo de fazer esse projeto
+Dashboard de vendas criado no Power BI
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -17,4 +17,4 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Trata-se de um dashboard de vendas padrão criado no Power Bi com dados fictícios fornecidos pela Data Science Academy
