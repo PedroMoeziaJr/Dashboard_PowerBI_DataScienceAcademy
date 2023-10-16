@@ -10,10 +10,10 @@ Rápida descrição do objetivo de fazer esse projeto
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![image](https://github.com/PedroMoeziaJr/Dashboard_PowerBI_DataScienceAcademy/assets/112977342/02cf3659-3568-4182-9e43-87801977d411)
+![image](https://github.com/PedroMoeziaJr/Dashboard_PowerBI_DataScienceAcademy/assets/112977342/02cf3659-3568-4182-9e43-87801977d411#vitrinedev)
 
 
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
 
 ## Detalhes do projeto
 
