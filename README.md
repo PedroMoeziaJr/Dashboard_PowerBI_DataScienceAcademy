@@ -10,6 +10,8 @@ Rápida descrição do objetivo de fazer esse projeto
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
+[Cap1 Data Science Academy.pdf](https://github.com/PedroMoeziaJr/Dashboard_PowerBI_DataScienceAcademy/files/12918145/Cap1.Data.Science.Academy.pdf)
+
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
